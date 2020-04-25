@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CargoManagementSystem.iml" filepath="$PROJECT_DIR$/.idea/CargoManagementSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carge/carge.iml" filepath="$PROJECT_DIR$/carge/carge.iml" />
+    </modules>
+  </component>
+</project>
